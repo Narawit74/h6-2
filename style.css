@@ -1,0 +1,44 @@
+.counter {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+  }
+  
+  .btn {
+    margin: 5px;
+  }
+  
+  .btn-dec {
+    font-size: 20px;
+  }
+  
+  .btn-plus {
+    font-size: 15px;
+  }
+  
+  .btn-delete {
+    background-color: #ff6961;
+    color: #fff;
+  }
+  
+  .number {
+    text-align: center;
+    border: inset;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .Total {
+    margin: 10px;
+    text-align: center;
+    width: 8%;
+    border: inset;
+  }
+
+  .addcounter {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 8%;
+  }
+  
